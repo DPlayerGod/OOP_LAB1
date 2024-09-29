@@ -1,0 +1,229 @@
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma chuyen bay: HTT3
+Nhap ngay bay (dd/mm/yyyy): 20/02/2020
+Nhap gio bay (hh:mm): 20:00
+Nhap noi di: Gia Lai
+Nhap noi den: HCM  
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma chuyen bay: HTT4
+Nhap ngay bay (dd/mm/yyyy): 30/02/2021
+Ngay bay khong hop le. Hay nhap lai.
+Nhap ngay bay (dd/mm/yyyy): 28/02/2020
+Nhap gio bay (hh:mm): 20:15
+Nhap noi di: HN
+Nhap noi den: HCM
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma chuyen bay: HTT5
+Nhap ngay bay (dd/mm/yyyy): 01/01/2024
+Nhap gio bay (hh:mm): 01:00
+Nhap noi di: Can Tho
+Nhap noi den: HN
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 1   
+Nhap ma chuyen bay: HXX66
+Nhap ngay bay (dd/mm/yyyy): 31/03/2024
+Nhap gio bay (hh:mm): 11:11
+Nhap noi di: Dak Lak
+Nhap noi den: Gia Lai
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma chuyen bay: HXX55
+Nhap ngay bay (dd/mm/yyyy): 31/04/2024
+Ngay bay khong hop le. Hay nhap lai.
+Nhap ngay bay (dd/mm/yyyy): 28/04/2024
+Nhap gio bay (hh:mm): -1 3
+Gio bay khong hop le. Hay nhap lai.
+Nhap gio bay (hh:mm): Gio bay khong hop le. Hay nhap lai.
+Nhap gio bay (hh:mm): 12:00 
+Nhap noi di: Dak Lak
+Nhap noi den: Ha Noi
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 2
+Ma chuyen bay: HTT3
+Ngay bay: 20/02/2020
+Gio bay: 20:00
+Noi di: Gia Lai
+Noi den: HCM
+-----------------
+Ma chuyen bay: HTT4
+Ngay bay: 28/02/2020
+Gio bay: 20:15
+Noi di: HN
+Noi den: HCM
+-----------------
+Ma chuyen bay: HTT5
+Ngay bay: 01/01/2024
+Gio bay: 01:00
+Noi di: Can Tho
+Noi den: HN
+-----------------
+Ma chuyen bay: HXX66
+Ngay bay: 31/03/2024
+Gio bay: 11:11
+Noi di: Dak Lak
+Noi den: Gia Lai
+-----------------
+Ma chuyen bay: HXX55
+Ngay bay: 28/04/2024
+Gio bay: 12:00
+Noi di: Dak Lak
+Noi den: Ha Noi
+-----------------
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 3
+Nhap ma chuyen bay can tim: HXX66
+Ma chuyen bay: HXX66
+Ngay bay: 31/03/2024
+Gio bay: 11:11
+Noi di: Dak Lak
+Noi den: Gia Lai
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 4
+Danh sach chuyen bay da duoc sap xep.
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 2
+Ma chuyen bay: HTT3
+Ngay bay: 20/02/2020
+Gio bay: 20:00
+Noi di: Gia Lai
+Noi den: HCM
+-----------------
+Ma chuyen bay: HTT4
+Ngay bay: 28/02/2020
+Gio bay: 20:15
+Noi di: HN
+Noi den: HCM
+-----------------
+Ma chuyen bay: HTT5
+Ngay bay: 01/01/2024
+Gio bay: 01:00
+Noi di: Can Tho
+Noi den: HN
+-----------------
+Ma chuyen bay: HXX66
+Ngay bay: 31/03/2024
+Gio bay: 11:11
+Noi di: Dak Lak
+Noi den: Gia Lai
+-----------------
+Ma chuyen bay: HXX55
+Ngay bay: 28/04/2024
+Gio bay: 12:00
+Noi di: Dak Lak
+Noi den: Ha Noi
+-----------------
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 5
+Nhap noi di: Gia Lai
+Nhap ngay bay (dd/mm/yyyy): 20/02/2020
+Ma chuyen bay: HTT3
+Ngay bay: 20/02/2020
+Gio bay: 20:00
+Noi di: Gia Lai
+Noi den: HCM
+-----------------
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 6
+Nhap noi di: Gia Lai
+Nhap noi den: HCM
+So luong chuyen bay tu Gia Lai den HCM: 1
+
+===== MENU =====
+1. Nhap thong tin chuyen bay
+2. Xuat danh sach chuyen bay
+3. Tim kiem chuyen bay theo ma
+4. Sap xep chuyen bay theo ngay gio khoi hanh
+5. Liet ke chuyen bay theo noi di va ngay
+6. Dem so luong chuyen bay theo noi di va noi den
+0. Thoat
+Lua chon cua ban: 
