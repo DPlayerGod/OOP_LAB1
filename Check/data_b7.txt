@@ -1,0 +1,137 @@
+So hoc sinh can quan ly thong tin la : 10
+Nhap ho va ten : Nguyen Van A
+Nhap diem Toan: 10
+Nhap diem Van: 10
+Nhap diem Anh: 9
+Nhap ho va ten : Nguyen Huu Lam Giang
+Nhap diem Toan: 5
+Nhap diem Van: 0
+Nhap diem Anh: 5
+Nhap ho va ten : Dang Quoc Cuong
+Nhap diem Toan: 10
+Nhap diem Van: 10
+Nhap diem Anh: 9 
+Nhap ho va ten : Nguyen Ngoc Qui
+Nhap diem Toan: 0
+Nhap diem Van: -5
+Diem van cua hoc sinh khong hop le! Vui long nhap lai : 0
+Nhap diem Anh: 3
+Nhap ho va ten : Dang Van Minh
+Nhap diem Toan: 0
+Nhap diem Van: 10
+Nhap diem Anh: 10
+Nhap ho va ten : Le Nguyen Huu An
+Nhap diem Toan: 5
+Nhap diem Van: 5
+Nhap diem Anh: 5
+Nhap ho va ten : Dang Thi Minh Tu
+Nhap diem Toan: 3
+Nhap diem Van: 3
+Nhap diem Anh: 5
+Nhap ho va ten : Nguyen Thi Minh Le
+Nhap diem Toan: 5
+Nhap diem Van: 10
+Nhap diem Anh: 9
+Nhap ho va ten : Dang Xuan Toan
+Nhap diem Toan: 6 
+Nhap diem Van: 7
+Nhap diem Anh: 8
+Nhap ho va ten : Nguyen Thi Hong Nhung 
+Nhap diem Toan: 3 
+Nhap diem Van: 5
+Nhap diem Anh: 7
+Thong tin hoc sinh
+Ho va ten: Nguyen Van A
+Diem Toan: 10
+Diem Van : 10
+Diem Anh : 9
+Diem trung binh: 9.75
+Hoc luc cua hoc sinh Nguyen Van A la xuat sac
+
+Thong tin hoc sinh
+Ho va ten: Nguyen Huu Lam Giang
+Diem Toan: 5
+Diem Van : 0
+Diem Anh : 5
+Diem trung binh: 3.75
+Hoc luc cua hoc sinh Nguyen Huu Lam Giang la yeu
+
+Thong tin hoc sinh
+Ho va ten: Dang Quoc Cuong
+Diem Toan: 10
+Diem Van : 10
+Diem Anh : 9
+Diem trung binh: 9.75
+Hoc luc cua hoc sinh Dang Quoc Cuong la xuat sac
+
+Thong tin hoc sinh
+Ho va ten: Nguyen Ngoc Qui
+Diem Toan: 0
+Diem Van : 0
+Diem Anh : 3
+Diem trung binh: 0.75
+Hoc luc cua hoc sinh Nguyen Ngoc Qui la yeu
+
+Thong tin hoc sinh
+Ho va ten: Dang Van Minh
+Diem Toan: 0
+Diem Van : 10
+Diem Anh : 10
+Diem trung binh: 5
+Hoc luc cua hoc sinh Dang Van Minh la trung binh
+
+Thong tin hoc sinh
+Ho va ten: Le Nguyen Huu An
+Diem Toan: 5
+Diem Van : 5
+Diem Anh : 5
+Diem trung binh: 5
+Hoc luc cua hoc sinh Le Nguyen Huu An la trung binh
+
+Thong tin hoc sinh
+Ho va ten: Dang Thi Minh Tu
+Diem Toan: 3
+Diem Van : 3
+Diem Anh : 5
+Diem trung binh: 3.5
+Hoc luc cua hoc sinh Dang Thi Minh Tu la yeu
+
+Thong tin hoc sinh
+Ho va ten: Nguyen Thi Minh Le
+Diem Toan: 5
+Diem Van : 10
+Diem Anh : 9
+Diem trung binh: 7.25
+Hoc luc cua hoc sinh Nguyen Thi Minh Le la kha
+
+Thong tin hoc sinh
+Ho va ten: Dang Xuan Toan
+Diem Toan: 6
+Diem Van : 7
+Diem Anh : 8
+Diem trung binh: 6.75
+Hoc luc cua hoc sinh Dang Xuan Toan la kha
+
+Thong tin hoc sinh
+Ho va ten: Nguyen Thi Hong Nhung 
+Diem Toan: 3
+Diem Van : 5
+Diem Anh : 7
+Diem trung binh: 4.5
+Hoc luc cua hoc sinh Nguyen Thi Hong Nhung  la yeu
+
+Danh sach ten cac hoc sinh co diem trung binh cao nhat : 
+Nguyen Van A
+Dang Quoc Cuong
+Tu khoa de tim kiem thong tin cac hoc sinh la : nguyen
+Danh sach ten cac hoc sinh co lien quan den tu khoa nguyen la :
+Nguyen Van A
+Nguyen Huu Lam Giang
+Nguyen Ngoc Qui
+Le Nguyen Huu An
+Nguyen Thi Minh Le
+Nguyen Thi Hong Nhung 
+
+Danh sach ten cac hoc sinh co diem toan thap nhat : 
+Nguyen Ngoc Qui
+Dang Van Minh
