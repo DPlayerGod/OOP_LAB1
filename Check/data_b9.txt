@@ -1,0 +1,328 @@
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma so: 1
+Nhap loai tiet kiem (toi da 10 ky tu): ngan han
+Nhap ho ten khach hang (toi da 30 ky tu): Dang Quoc CUong
+Nhap CMND (9 hoac 12 chu so): 123456789
+Nhap ngay mo so (dd/mm/yyyy): 01/02/2024
+Nhap so tien gui: 1000
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 1             
+Nhap ma so: 2
+Nhap loai tiet kiem (toi da 10 ky tu): dai han
+Nhap ho ten khach hang (toi da 30 ky tu): Nguyen Ngoc Quy
+Nhap CMND (9 hoac 12 chu so): 987654321
+Nhap ngay mo so (dd/mm/yyyy): 01/04/2024
+Nhap so tien gui: 100131
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma so: 3
+Nhap loai tiet kiem (toi da 10 ky tu): ngan han
+Nhap ho ten khach hang (toi da 30 ky tu): 
+Ho ten khong hop le. Hay nhap lai.
+Nhap ho ten khach hang (toi da 30 ky tu): Dang Thanh Quy
+Nhap CMND (9 hoac 12 chu so): 000000000
+Nhap ngay mo so (dd/mm/yyyy): 05/05/2024
+Nhap so tien gui: 10000000
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 1
+Nhap ma so: 4
+Nhap loai tiet kiem (toi da 10 ky tu): dai han
+Nhap ho ten khach hang (toi da 30 ky tu): Thay Quy dep trai
+Nhap CMND (9 hoac 12 chu so): 999999999
+Nhap ngay mo so (dd/mm/yyyy): 06/12/2024
+Nhap so tien gui: 1010312
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 2
+Ma so: 1
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Quoc CUong
+CMND: 123456789
+Ngay mo so: 01/02/2024
+So tien gui: 1000
+-----------------
+Ma so: 2
+Loai tiet kiem: dai han
+Ho ten khach hang: Nguyen Ngoc Quy
+CMND: 987654321
+Ngay mo so: 01/04/2024
+So tien gui: 100131
+-----------------
+Ma so: 3
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Thanh Quy
+CMND: 000000000
+Ngay mo so: 05/05/2024
+So tien gui: 1e+07
+-----------------
+Ma so: 4
+Loai tiet kiem: dai han
+Ho ten khach hang: Thay Quy dep trai
+CMND: 999999999
+Ngay mo so: 06/12/2024
+So tien gui: 1.01031e+06
+-----------------
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 3
+Nhap CMND hoac ma so can tim: 000000000
+Ma so: 3
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Thanh Quy
+CMND: 000000000
+Ngay mo so: 05/05/2024
+So tien gui: 1e+07
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 4
+Nhap ma so can cap nhat lai suat: 1
+Nhap lai suat (%/nam): 100 
+Tien lai duoc tinh la: 500
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 4
+Nhap ma so can cap nhat lai suat: 2
+Nhap lai suat (%/nam): 50
+Tien lai duoc tinh la: 50065.5
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 4
+Nhap ma so can cap nhat lai suat: 3
+Nhap lai suat (%/nam): 75
+Tien lai duoc tinh la: 3.75e+06
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 4
+Nhap ma so can cap nhat lai suat: 4
+Nhap lai suat (%/nam): 10
+Tien lai duoc tinh la: 101031
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 5
+Nhap ngay bat dau (dd/mm/yyyy): 01/02/2024
+Nhap ngay ket thuc (dd/mm/yyyy): 12/12/2024
+Ma so: 2
+Loai tiet kiem: dai han
+Ho ten khach hang: Nguyen Ngoc Quy
+CMND: 987654321
+Ngay mo so: 01/04/2024
+So tien gui: 100131
+-----------------
+Ma so: 3
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Thanh Quy
+CMND: 000000000
+Ngay mo so: 05/05/2024
+So tien gui: 1e+07
+-----------------
+Ma so: 4
+Loai tiet kiem: dai han
+Ho ten khach hang: Thay Quy dep trai
+CMND: 999999999
+Ngay mo so: 06/12/2024
+So tien gui: 1.01031e+06
+-----------------
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 6
+Da sap xep danh sach theo so tien gui giam dan.
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 2
+Ma so: 3
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Thanh Quy
+CMND: 000000000
+Ngay mo so: 05/05/2024
+So tien gui: 1e+07
+-----------------
+Ma so: 4
+Loai tiet kiem: dai han
+Ho ten khach hang: Thay Quy dep trai
+CMND: 999999999
+Ngay mo so: 06/12/2024
+So tien gui: 1.01031e+06
+-----------------
+Ma so: 2
+Loai tiet kiem: dai han
+Ho ten khach hang: Nguyen Ngoc Quy
+CMND: 987654321
+Ngay mo so: 01/04/2024
+So tien gui: 100131
+-----------------
+Ma so: 1
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Quoc CUong
+CMND: 123456789
+Ngay mo so: 01/02/2024
+So tien gui: 1000
+-----------------
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 7
+Da sap xep danh sach theo ngay mo so tang dan.
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
+Lua chon cua ban: 2
+Ma so: 1
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Quoc CUong
+CMND: 123456789
+Ngay mo so: 01/02/2024
+So tien gui: 1000
+-----------------
+Ma so: 2
+Loai tiet kiem: dai han
+Ho ten khach hang: Nguyen Ngoc Quy
+CMND: 987654321
+Ngay mo so: 01/04/2024
+So tien gui: 100131
+-----------------
+Ma so: 3
+Loai tiet kiem: ngan han
+Ho ten khach hang: Dang Thanh Quy
+CMND: 000000000
+Ngay mo so: 05/05/2024
+So tien gui: 1e+07
+-----------------
+Ma so: 4
+Loai tiet kiem: dai han
+Ho ten khach hang: Thay Quy dep trai
+CMND: 999999999
+Ngay mo so: 06/12/2024
+So tien gui: 1.01031e+06
+-----------------
+
+===== MENU =====
+1. Nhap thong tin so tiet kiem
+2. Xuat danh sach so tiet kiem
+3. Tim kiem so tiet kiem theo CMND hoac ma so
+4. Cap nhat lai suat va tinh toan tien lai
+5. Liet ke so tiet kiem theo khoang thoi gian
+6. Sap xep danh sach theo so tien gui giam dan
+7. Sap xep danh sach theo ngay mo so tang dan
+0. Thoat
